@@ -1,4 +1,4 @@
--- Codes to create the Schema for the employee_db
+-- Codes to create the Schema for the crowdfunding_db
 -- category Table
 CREATE TABLE category (
   category_id VARCHAR PRIMARY KEY,
@@ -26,11 +26,11 @@ CREATE TABLE contact (
 CREATE TABLE campaign (
   cf_id INTEGER PRIMARY KEY,
   contact_id INT NOT NULL,
-  FOREIGN KEY (emp_titlcontact_id) REFERENCES contact(contact_id),
+  FOREIGN KEY (contact_id) REFERENCES contact(contact_id),
   company_name VARCHAR,
   description VARCHAR,
-  goal INT,
-  pledged INT,
+  goal FLOAT,
+  pledged FLOAT,
   outcome VARCHAR,
   backers_count INT,
   country VARCHAR,
@@ -42,4 +42,5 @@ CREATE TABLE campaign (
   subcategory_id VARCHAR NOT NULL,
   FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
 );
+
 
