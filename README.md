@@ -1,4 +1,4 @@
-# 📁 Crowdfunding_ETL_Project_2
+# 📁 Project_2_Crowdfunding_ETL_Group_10
 
 ### ✒️ Group 10
 1. Athira Reji
