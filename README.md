@@ -4,7 +4,6 @@ This project under Group 10 is jointly done by the following contributors:
 1. Ryan James
 2. Athira Reji
 3. Geoffrey Pang
-
 ---
 
 Codes used are taken from lecture notes and ChatGPT.
