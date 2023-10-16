@@ -6,7 +6,9 @@ This project under Group 10 is jointly done by the following contributors:
 3. Geoffrey Pang
 
 ---
+
 Codes used are taken from lecture notes and ChatGPT.
+
 ---
 
 The GitHub repository consist of the following files:
