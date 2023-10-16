@@ -31,7 +31,7 @@ To build an ETL pipeline.
 - Export the campaign DataFrame as campaign.csv and save it to the GitHub repository.
 
 ## 3. Create the Contacts DataFrame
-- Choose two options for extracting and transforming the data from the contacts.xlsx Excel data by either option
+- Choose two options for extracting and transforming the data from the contacts.xlsx Excel data 
 ##### - Option 1: Use Python dictionary methods.
 ##### - Option 2: Use regular expressions.
 
