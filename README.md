@@ -1,15 +1,15 @@
 ## Crowdfunding_ETL_Project_2
 
-# This project under Group 10 is jointly done by the following contributors:
+This project under Group 10 is jointly done by the following contributors:
 1. Ryan James
 2. Athira Reji
 3. Geoffrey Pang
 
 ---
-# Codes used are taken from lecture notes and ChatGPT.
+Codes used are taken from lecture notes and ChatGPT.
 ---
 
-# The GitHub repository consist of the following files:
+The GitHub repository consist of the following files:
 1. ETL_Mini_Project2_Gp10_RJ_AR_GP.ipynb - all the required codes are in this file.
 2. ETL_Mini_Project_Started_Code.ipynb - this was the original file for starting the codes.
 3. Project2_ERD_Diagram.jpg - ERD diagram showing the tables relationship generated from QuickDBD.
