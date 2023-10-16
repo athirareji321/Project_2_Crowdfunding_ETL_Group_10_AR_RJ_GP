@@ -1,4 +1,10 @@
-# Crowdfunding_ETL_Project_2
+# 📁 Crowdfunding_ETL_Project_2
+
+### ✒️ Group 10
+1. Athira Reji
+2. Geoffrey Pang
+3. Ryan James
+   
 ## Aim: 
 To build an ETL pipeline.
 ## Objectives :
@@ -38,5 +44,5 @@ To build an ETL pipeline.
 - Using the database schema, create the tables in the correct order to handle the foreign keys.
 - Verify the table creation by running a SELECT statement for each table.
 - Import each CSV file into its corresponding SQL table.
-- **The table was imported in the following order: category, subcategory, contacts_outputs, campaign**
+- ⭐ **The table was imported in the following order: category, subcategory, contacts_outputs, campaign**
 - Verify that each table has the correct data by running a SELECT statement for each.
